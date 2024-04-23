@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: 
+Allow: /
+
+Sitemap: https://www.fuel.com.jm/sitemap.xml
