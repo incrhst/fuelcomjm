@@ -34,8 +34,8 @@ functions = "functions"
   force = true
 
 [[redirects]]
-  from = "/rwfaf"
-  to = "/"
+  from = "/fireup"
+  to = "/classes"
   status = 301
   force = true
 
