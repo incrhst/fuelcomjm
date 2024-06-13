@@ -39,6 +39,12 @@ functions = "functions"
   status = 301
   force = true
 
+[[redirects]]
+  from = "/credits"
+  to = "https://www.supersaas.com/shop/buy/fuel"
+  status = 301
+  force = true
+
 
 # map everything else from the subdomain to your domain
 [[redirects]]
