@@ -51,6 +51,11 @@ functions = "functions"
   status = 301
   force = true
 
+[[redirects]]
+  from = "/waiver"
+  to = "https://docuseal.co/d/Trv46a3eZYm1zd"
+  status = 301
+  force = true
 
 # map everything else from the subdomain to your domain
 [[redirects]]
