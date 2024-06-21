@@ -47,7 +47,7 @@ functions = "functions"
 
 [[redirects]]
   from = "/credits"
-  to = "https://www.supersaas.com/shop/buy/fuel"
+  to = "https://credit.fuel.com.jm"
   status = 301
   force = true
 
