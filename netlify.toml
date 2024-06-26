@@ -40,8 +40,8 @@ functions = "functions"
   force = true
 
 [[redirects]]
-  from = "/custom.css"
-  to = "/custom.css"
+  from = "/customsupersaas.css"
+  to = "/customsupersaas.css"
   status = 200
   force = true
 
