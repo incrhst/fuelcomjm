@@ -28,3 +28,6 @@
 #booking #errorExplanation h2 {
     display: none;
 }
+#booking #errorExplanation p {
+    display: none;
+}
