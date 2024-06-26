@@ -1,0 +1,13 @@
+.dwrap_n .dbox_n {
+    border: 1px solid #bfbfbf;
+    border-radius: 5px;
+    padding: 33px 40px 44px;
+    overflow: hidden;
+    min-width: 200px;
+    min-height: 56px;
+}
+
+.dwrap_n .dbox_n {
+    box-sizing: border-box;
+    height: 100%;
+}

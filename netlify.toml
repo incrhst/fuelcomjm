@@ -40,6 +40,12 @@ functions = "functions"
   force = true
 
 [[redirects]]
+  from = "/custom.css"
+  to = "/custom.css"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/fireup"
   to = "/classes"
   status = 301
