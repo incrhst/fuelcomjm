@@ -18,3 +18,10 @@
     background-color: #56595a;
     border-color: #56595a;
 }
+#flash, #redflash {
+    background-color: #a1d891;
+    color: #7e5b14;
+    font-size: large;
+    text-align: center;
+    padding: 16px;
+}
