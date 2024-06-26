@@ -25,7 +25,6 @@
     text-align: center;
     padding: 16px;
 }
-#booking #errorExplanation h2,
-#booking #errorExplanation p {
+#booking #errorExplanation h2,#booking #errorExplanation p {
     display: none;
 }
