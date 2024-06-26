@@ -11,6 +11,9 @@
     box-sizing: border-box;
     height: 100%;
 }
+.dbox_n.dbox_n_s:hover {
+    background: #2496ff26;
+}
 .col10 {
     background-color: #56595a;
     border-color: #56595a;
